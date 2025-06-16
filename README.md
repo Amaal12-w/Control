@@ -48,7 +48,7 @@ It reflects how many real control systems work in automated processes, especiall
 ---
 
 ## 🎥 Demo Video  
-➡️ https://github.com/user-attachments/assets/c11cea5c-053c-41c4-80e7-ede8f8826151
+https://github.com/user-attachments/assets/c11cea5c-053c-41c4-80e7-ede8f8826151
 
 ---
 
